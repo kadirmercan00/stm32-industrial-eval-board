@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="docs/images/stm32_eval_dual_view.jpg" alt="STM32 4-Layer Industrial Evaluation Board Dual Hardware View" width="700" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
-<p><em>Fabricated 4-Layer Mixed-Signal Hardware — Top: Active 16x2 Character LCD with 4 Navigation Push Buttons (ENTER, UP, DOWN, ESC). Bottom: Fabricated SMD Back Layer with STM32F103 MCU, Isolated RS-485, Op-Amp AFE, and Buck Regulator.</em></p>
+<img src="docs/images/stm32_eval_cover.png" alt="STM32 4-Layer Mixed-Signal Industrial Evaluation Board" width="750" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
+<p><em>Fabricated 4-Layer Mixed-Signal Hardware — STM32F103 (ARM Cortex-M3), 16x2 LCD Character HMI, Isolated RS-485 Modbus RTU, Active Op-Amp Signal Conditioning & Programmable DAC Waveform Generator.</em></p>
 
 <br/>
 
